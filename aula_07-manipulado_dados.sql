@@ -11,7 +11,7 @@ insert
     ('9','Cozinha Árabe','Aprenda a fazer Kibe','40','30','2018'),
     ('10','Youtuber','Gerar polêmica e ganhar inscritos','5','2','2018');
     
--- Atualizando a linha usasse a seguinte sintaxe
+-- Atualizando a linha usa-se a seguinte sintaxe
 
 update cursos
 set nome = 'HTML5'
